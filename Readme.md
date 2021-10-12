@@ -21,3 +21,4 @@ A PowerShell API wrapper for KnowBe4.
 - Get-KB4User
 - Get-KB4Group
 - Get-KB4TrainingCampaign
+- Get-KB4TrainingEnrollment
