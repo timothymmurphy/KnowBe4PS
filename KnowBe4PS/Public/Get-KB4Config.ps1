@@ -26,6 +26,6 @@ function Get-KB4Config {
 
     } 
     catch {
-        throw "Unable to find existing configuration file. Use 'Set-CbConfig' to create one."
+        throw "Unable to find existing configuration file. Use 'Set-KB4Config' to create one."
     }
 }
